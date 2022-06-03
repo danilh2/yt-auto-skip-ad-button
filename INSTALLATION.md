@@ -4,7 +4,7 @@
 ## Second Step
 - Open Chrome > Configuration > Tools... > Extensions
 ## Third Step
-- Active Developer Mode
+- Activate Developer Mode
 ## Fourth Step
 - Click on 'Load uncompressed' and select your extension folder
 ## Congrats!
