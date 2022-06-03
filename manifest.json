@@ -1,6 +1,6 @@
 {
 	"manifest_version": 3,
-	"name": "Youtube Ad Button Skip",
+	"name": "Youtube Auto Skip Ad Button",
 	"version": "1.0",
 	
 	"description": "Youtube ads will be skipped automatically in less than a second.",
